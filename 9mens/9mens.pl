@@ -3,7 +3,6 @@
 # 9 Men's Morris Board done in SVG
 # https://en.wikipedia.org/wiki/Nine_men%27s_morris
 
- 
 use strict;
 use warnings;
 use SVG;  # https://metacpan.org/pod/SVG
