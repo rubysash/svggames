@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="670" width="603" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<circle cx="306.285714285714" cy="306.285714285714" r="76.5714285714286" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<circle cx="306.285714285714" cy="306.285714285714" r="153.142857142857" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<circle cx="306.285714285714" cy="306.285714285714" r="229.714285714286" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="191.428571428571,107.347307244946 421.142857142857,505.224121326482 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="191.428571428571,505.224121326482 421.142857142857,107.347307244946 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="76.5714285714286,306.285714285714 536,306.285714285714 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<circle cx="306.285714285714" cy="306.285714285714" r="7" />
+	<circle cx="268" cy="239.972911938792" r="7" />
+	<circle cx="421.142857142857" cy="505.224121326482" r="7" />
+	<circle cx="191.428571428571" cy="505.224121326482" r="7" />
+	<circle cx="421.142857142857" cy="107.347307244946" r="7" />
+	<circle cx="76.5714285714286" cy="306.285714285714" r="7" />
+	<circle cx="153.142857142857" cy="306.285714285714" r="7" />
+	<circle cx="229.714285714286" cy="306.285714285714" r="7" />
+	<circle cx="306.285714285714" cy="306.285714285714" r="7" />
+	<circle cx="382.857142857143" cy="306.285714285714" r="7" />
+	<circle cx="459.428571428571" cy="306.285714285714" r="7" />
+	<circle cx="536" cy="306.285714285714" r="7" />
+	<circle cx="344.571428571429" cy="372.598516632637" r="7" />
+	<circle cx="268" cy="372.598516632637" r="7" />
+	<circle cx="344.571428571429" cy="239.972911938792" r="7" />
+	<circle cx="229.714285714286" cy="173.660109591869" r="7" />
+	<circle cx="382.857142857143" cy="438.91131897956" r="7" />
+	<circle cx="229.714285714286" cy="438.91131897956" r="7" />
+	<circle cx="382.857142857143" cy="173.660109591869" r="7" />
+	<circle cx="191.428571428571" cy="107.347307244946" r="7" />
+	<text id="l1" style="fill: black; font: Serif; font-size: 32" x="256.833333333333" y="636.5">Pretwa</text>
+	<!--
+	Generated using the Perl SVG Module V2.84
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+	-->
+</svg>

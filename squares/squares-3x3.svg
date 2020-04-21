@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="670" width="603" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="33.5" y="33.5" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="33.5" y="212.166666666667" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="33.5" y="390.833333333333" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="212.166666666667" y="33.5" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="212.166666666667" y="212.166666666667" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="212.166666666667" y="390.833333333333" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="390.833333333333" y="33.5" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="390.833333333333" y="212.166666666667" />
+	<rect height="178.666666666667" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="178.666666666667" x="390.833333333333" y="390.833333333333" />
+	<rect height="536" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="536" x="33.5" y="33.5" />
+	<text id="l1" style="fill: black; font: Serif; font-size: 32" x="130.277777777778" y="636.5">Square Game Board 3 x 3</text>
+	<!--
+	Generated using the Perl SVG Module V2.84
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+	-->
+</svg>

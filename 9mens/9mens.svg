@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="670" width="603" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect height="536" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="536" x="33.5" y="33.5" />
+	<rect height="402" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="402" x="100.5" y="100.5" />
+	<rect height="268" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="268" x="167.5" y="167.5" />
+	<circle cx="33.5" cy="33.5" r="7" />
+	<circle cx="33.5" cy="301.5" r="7" />
+	<circle cx="33.5" cy="569.5" r="7" />
+	<circle cx="100.5" cy="100.5" r="7" />
+	<circle cx="100.5" cy="301.5" r="7" />
+	<circle cx="100.5" cy="502.5" r="7" />
+	<circle cx="167.5" cy="167.5" r="7" />
+	<circle cx="167.5" cy="301.5" r="7" />
+	<circle cx="167.5" cy="435.5" r="7" />
+	<circle cx="301.5" cy="33.5" r="7" />
+	<circle cx="301.5" cy="100.5" r="7" />
+	<circle cx="301.5" cy="167.5" r="7" />
+	<circle cx="301.5" cy="435.5" r="7" />
+	<circle cx="301.5" cy="502.5" r="7" />
+	<circle cx="301.5" cy="569.5" r="7" />
+	<circle cx="435.5" cy="167.5" r="7" />
+	<circle cx="435.5" cy="301.5" r="7" />
+	<circle cx="435.5" cy="435.5" r="7" />
+	<circle cx="502.5" cy="100.5" r="7" />
+	<circle cx="502.5" cy="301.5" r="7" />
+	<circle cx="502.5" cy="502.5" r="7" />
+	<circle cx="569.5" cy="33.5" r="7" />
+	<circle cx="569.5" cy="301.5" r="7" />
+	<circle cx="569.5" cy="569.5" r="7" />
+	<polygon points="301.5,33.5 301.5,167.5 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="435.5,301.5 569.5,301.5 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="301.5,435.5 301.5,569.5 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="33.5,301.5 167.5,301.5 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<text id="l1" style="fill: black; font: Serif; font-size: 32" x="197.277777777778" y="636.5">9 Men&apos;s Morris</text>
+	<!--
+	Generated using the Perl SVG Module V2.84
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+	-->
+</svg>

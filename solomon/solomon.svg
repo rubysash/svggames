@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="670" width="603" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<polygon points="76.5714285714286,306.285714285714 421.142857142857,107.347307244946 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="76.5714285714286,306.285714285714 536,306.285714285714 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="76.5714285714286,306.285714285714 421.142857142857,505.224121326482 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="191.428571428571,107.347307244946 191.428571428571,505.224121326482 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="191.428571428571,107.347307244946 421.142857142857,505.224121326482 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="191.428571428571,107.347307244946 536,306.285714285714 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="421.142857142857,107.347307244946 421.142857142857,505.224121326482 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="421.142857142857,107.347307244946 191.428571428571,505.224121326482 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="536,306.285714285714 191.428571428571,505.224121326482 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<circle cx="76.5714285714286" cy="306.285714285714" r="6.7" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<circle cx="536" cy="306.285714285714" r="6.7" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<text id="l1" style="fill: black; font: Serif; font-size: 32" x="197.277777777778" y="636.5">Solomon&apos;s Game</text>
+	<!--
+	Generated using the Perl SVG Module V2.84
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+	-->
+</svg>

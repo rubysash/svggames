@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="726" width="726" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="99" y="99" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="99" y="231" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="99" y="363" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="99" y="495" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="231" y="99" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="231" y="231" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="231" y="363" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="231" y="495" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="363" y="99" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="363" y="231" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="363" y="363" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="363" y="495" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="495" y="99" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="495" y="231" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="495" y="363" />
+	<rect height="132" style="fill: black; fill-opacity: 0; stroke: black; stroke-opacity: 1; stroke-width: 3" width="132" x="495" y="495" />
+	<polygon points="99,99 363,363 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="363,99 627,363 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="99,363 363,627 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="363,363 627,627 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="363,99 99,363 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="627,99 363,363 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="363,363 99,627 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<polygon points="627,363 363,627 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 3" />
+	<circle cx="99" cy="99" r="7" />
+	<circle cx="99" cy="231" r="7" />
+	<circle cx="99" cy="363" r="7" />
+	<circle cx="99" cy="495" r="7" />
+	<circle cx="231" cy="99" r="7" />
+	<circle cx="231" cy="231" r="7" />
+	<circle cx="231" cy="363" r="7" />
+	<circle cx="231" cy="495" r="7" />
+	<circle cx="363" cy="99" r="7" />
+	<circle cx="363" cy="231" r="7" />
+	<circle cx="363" cy="363" r="7" />
+	<circle cx="363" cy="495" r="7" />
+	<circle cx="495" cy="99" r="7" />
+	<circle cx="495" cy="231" r="7" />
+	<circle cx="495" cy="363" r="7" />
+	<circle cx="495" cy="495" r="7" />
+	<circle cx="627" cy="99" r="7" />
+	<circle cx="627" cy="231" r="7" />
+	<circle cx="627" cy="363" r="7" />
+	<circle cx="627" cy="495" r="7" />
+	<circle cx="99" cy="627" r="7" />
+	<circle cx="231" cy="627" r="7" />
+	<circle cx="363" cy="627" r="7" />
+	<circle cx="495" cy="627" r="7" />
+	<circle cx="627" cy="627" r="7" />
+	<text id="l1" style="fill: black; font: Serif; font-size: 33" x="253" y="62.7">Alquerque 4 x 4</text>
+	<!--
+	Generated using the Perl SVG Module V2.84
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+	-->
+</svg>
